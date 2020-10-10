@@ -1,0 +1,5 @@
+---
+# vars file for provision/roles/slave
+mysql_password: "Pa$$w0rd"
+replication_user: "repl"
+replication_password: "OtusLinux"
