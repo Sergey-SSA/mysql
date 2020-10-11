@@ -54,4 +54,4 @@
     host: '%'
     priv: '*.*:ALL'
     state: present
-...
+

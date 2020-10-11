@@ -43,4 +43,4 @@
       -uroot \
       -p'{{ mysql_password }}' \
       -e 'START SLAVE;'
-...
+
