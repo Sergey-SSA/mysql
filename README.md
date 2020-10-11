@@ -41,7 +41,7 @@ mysql> show databases;
 | bet                |
 | mysql              |
 | performance_schema |
-| sys             ф   |
+| sys                |
 +--------------------+
 5 rows in set (0.00 sec)
 
